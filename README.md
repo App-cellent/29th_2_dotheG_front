@@ -5,6 +5,9 @@ DotheG: do the Green
 
 <img src="https://github.com/user-attachments/assets/0f2b0823-5b82-42a6-99c1-287ac3d733df" width="480"/>
 
+> [DotheG 프로젝트 설명 바로 가기](https://github.com/App-cellent)
+
+<br><br><br>
 
 # Frontend
 
@@ -18,14 +21,16 @@ DotheG: do the Green
 - 주간/월간 성과보고서
 - 마이페이지 
 
+<br><br><br>
 
 ## 👩‍💻 역할 분담
 |       이름         | 프로필                                                              |                                      역할분담                         |
 | -------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------- |
 | 김세희 | <img src="https://github.com/user-attachments/assets/41a54fdf-4557-4aea-af94-1fa13bae9430" width="160"/> | 메인페이지, 만보기, 튜토리얼 |
 | 이연재 | <img src="https://github.com/user-attachments/assets/a25f9c0f-ac80-47c6-9cf0-32ca968f05e7" width="160"/> | 로그인&회원가입, 캐릭터 |
-| 정지윤 | <img src="https://github.com/user-attachments/assets/e0fff187-5177-487f-9faf-664b454106b3" width="160"/> | 활동인증, 성과보고서, 마이페이지 | 
+| 정지윤 | <img src="https://github.com/user-attachments/assets/e0fff187-5177-487f-9faf-664b454106b3" width="160"/> | AI 기반 퀘스트 인증, 성과보고서, 마이페이지 | 
 
+<br><br><br>
 
 ## 🌳 프로젝트 구조
 ```
